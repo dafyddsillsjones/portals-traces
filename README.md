@@ -1,8 +1,8 @@
 # Portals/Traces — contextual field map
 
-Working draft, version 0.14 · 24 October 2026
+Working draft, version 0.15 · 24 October 2026
 
-An exploratory map connecting five project branches with concepts, literature, creative works, ethics and people. This draft contains 373 records, including 267 named people. Counts describe the collection, not its completeness or scholarly quality.
+An exploratory map connecting five project branches with concepts, literature, creative works, ethics and people. This draft contains 394 records, including 284 named people. Counts describe the collection, not its completeness or scholarly quality.
 
 ## Open the draft
 
@@ -46,3 +46,7 @@ Reading notes stay in the browser. Use **Export notes and data** to keep a copy;
 Selecting a node leaves the visible sample fixed. Use **Explore connected records** in the inspector to change the sample within the current filters. **Reset sample** restores the default sample.
 
 Concept inspectors identify people credited in linked literature and name the connecting sources. Dotted concept-to-person links represent this derived source path, not endorsement of the project interpretation.
+
+## Source mapping audit
+
+Open **Reading & review** for searchable assessments of all 80 current source/work records against the 31 concepts. The 318 proposed links distinguish theoretical grounding, empirical comparisons, technical analogies, policy context and unverified practice leads. Evidence access and scope are recorded. This first source-record pass is not full-text critical reading or human validation. `MAPPING_AUDIT.md` is a readable audit; `data.json` includes positive links, unestablished pairs, project relevance and source credits.

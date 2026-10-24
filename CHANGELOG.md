@@ -1,5 +1,16 @@
 # Changes
 
+## 0.15 — 24 October 2026
+
+- Completed first source-record mapping pass for 80 source/work records and 31 concepts: 318 proposed source-concept links.
+- Added typed connection roles, reasons, evidence-access status and project-relevance assessments.
+- Recorded all 2,479 source-concept dispositions and 400 project relevance dispositions in data.json.
+- Recovered 17 credited author/creator records; unresolved initials remain explicit.
+- Added searchable mapping audit and readable MAPPING_AUDIT.md.
+- All 394 records remain visible by default; selection keeps positions fixed.
+- Functional tests and browser audit/search checks pass. Full-text critical reading and human assessment remain pending.
+
+
 ## 0.14 — 24 October 2026
 
 - Concepts now reveal people credited in linked literature, with each source named in the inspector.
