@@ -1,5 +1,21 @@
 # Changes
 
+## 0.14 — 24 October 2026
+
+- Concepts now reveal people credited in linked literature, with each source named in the inspector.
+- Dotted derived connections distinguish source attribution from conceptual endorsement.
+- Includes incoming literature links; explicit exploration also prioritises these contributors.
+- Verified example source paths and preserved fixed positions on selection.
+
+
+## 0.13 — 24 October 2026
+
+- All 373 records are drawn by default, replacing the six-record limit.
+- Added optional per-layer density caps and displayed/matching counts.
+- Adaptive node grid keeps the full collection within each plane.
+- Verified complete rendering, density caps and stable selection positions.
+
+
 ## 0.12 — 24 October 2026
 
 - Selection no longer changes displayed node identities or coordinates.

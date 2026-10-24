@@ -1,6 +1,6 @@
 # Portals/Traces — contextual field map
 
-Working draft, version 0.12 · 24 October 2026
+Working draft, version 0.14 · 24 October 2026
 
 An exploratory map connecting five project branches with concepts, literature, creative works, ethics and people. This draft contains 373 records, including 267 named people. Counts describe the collection, not its completeness or scholarly quality.
 
@@ -8,7 +8,7 @@ An exploratory map connecting five project branches with concepts, literature, c
 
 Open `index.html` in a browser. The opening screen is the map, with filters and view controls on the left and selected-record details on the right. Compact navigation opens concepts, people, partners, the full library and reading/review. The page is self-contained and needs no installation or build. It includes the five branch filters, disciplinary tags, a spatial orientation view, a complete people directory, partner roster, concept explorer and searchable register.
 
-The spatial view displays up to six records per layer. The full directories expose all records. Spatial position does not measure similarity. Connections are proposed analytical links unless the record explicitly identifies authorship.
+The spatial view displays all matching records by default. Map density can limit each layer to 60, 24 or 6 records. Layer counters show displayed/matching records. The full directories expose all records. Spatial position does not measure similarity. Connections are proposed analytical links unless the record explicitly identifies authorship.
 
 ## Files
 
@@ -44,3 +44,5 @@ All 22 XR omnibus entries are represented. Two further literature-search bibliog
 Reading notes stay in the browser. Use **Export notes and data** to keep a copy; notes are not automatically shared or written back to GitHub. An iframe or different browser may have separate storage. This archive contains bibliographic records and the interface, not the supplied PDFs or private browser notes.
 
 Selecting a node leaves the visible sample fixed. Use **Explore connected records** in the inspector to change the sample within the current filters. **Reset sample** restores the default sample.
+
+Concept inspectors identify people credited in linked literature and name the connecting sources. Dotted concept-to-person links represent this derived source path, not endorsement of the project interpretation.
