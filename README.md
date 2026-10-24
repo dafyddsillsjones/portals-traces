@@ -1,6 +1,6 @@
 # Portals/Traces — contextual field map
 
-Working draft, version 0.10 · 24 October 2026
+Working draft, version 0.12 · 24 October 2026
 
 An exploratory map connecting five project branches with concepts, literature, creative works, ethics and people. This draft contains 373 records, including 267 named people. Counts describe the collection, not its completeness or scholarly quality.
 
@@ -42,3 +42,5 @@ For an academically useful revision, select a source, read it, identify a suppor
 All 22 XR omnibus entries are represented. Two further literature-search bibliographies remain unrecovered. Chapter and reference-list screening remains incomplete. Indigenous community authority and participation cannot be inferred from including Indigenous scholarship. Partner contacts are user-nominated; individual project commitments and branch roles require evidence.
 
 Reading notes stay in the browser. Use **Export notes and data** to keep a copy; notes are not automatically shared or written back to GitHub. An iframe or different browser may have separate storage. This archive contains bibliographic records and the interface, not the supplied PDFs or private browser notes.
+
+Selecting a node leaves the visible sample fixed. Use **Explore connected records** in the inspector to change the sample within the current filters. **Reset sample** restores the default sample.

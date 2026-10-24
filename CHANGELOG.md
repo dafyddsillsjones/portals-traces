@@ -1,5 +1,19 @@
 # Changes
 
+## 0.12 — 24 October 2026
+
+- Selection no longer changes displayed node identities or coordinates.
+- Added an explicit Explore connected records action and Reset sample control.
+- Verified stable identity and position across selection of every record, plus explicit exploration and reset.
+
+
+## 0.11 — 24 October 2026
+
+- Black-background projected 3D layer scene with translucent coloured planes.
+- Rotation, tilt, layer separation and label controls.
+- Hover/focus labels and selection-based connections. Geometry remains illustrative.
+
+
 ## 0.10 — 24 October 2026
 
 - Redesigned as a map-first research atlas with a side control panel, selected-record inspector and compact navigation.
