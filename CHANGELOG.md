@@ -1,3 +1,6 @@
+## 0.16
+Added Income Sources layer and directory with country, route and stage filters. 36 exploratory records; university, national, bilateral, philanthropic, commercial and infrastructure routes. No confirmed awards or eligibility inferred.
+
 # Changes
 
 ## 0.15 — 24 October 2026

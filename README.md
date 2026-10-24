@@ -50,3 +50,7 @@ Concept inspectors identify people credited in linked literature and name the co
 ## Source mapping audit
 
 Open **Reading & review** for searchable assessments of all 80 current source/work records against the 31 concepts. The 318 proposed links distinguish theoretical grounding, empirical comparisons, technical analogies, policy context and unverified practice leads. Evidence access and scope are recorded. This first source-record pass is not full-text critical reading or human validation. `MAPPING_AUDIT.md` is a readable audit; `data.json` includes positive links, unestablished pairs, project relevance and source credits.
+
+
+## Version 0.16 — Income sources
+Sixth pink map layer and searchable Income sources directory. Includes 16 named funder/programme/infrastructure leads, 15 institutional internal-funding enquiries (one for each partner institution), and 5 broader income routes. Leads are exploratory; no awards or open calls are asserted. Institutional contacts are enquiry routes, not committed applicants. Income records carry country, route, stage, contribution type, institutional routes, evidence URL/date and next step. In-kind support is distinct from cash income. Existing academic mapping audit remains unchanged.

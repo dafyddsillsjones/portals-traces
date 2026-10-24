@@ -1,5 +1,5 @@
 {
-  "version": "0.15",
+  "version": "0.16",
   "items": [
     {
       "id": "slater",
@@ -19626,6 +19626,1370 @@
         5
       ],
       "branchRelationNote": "Source relevance only; does not establish project involvement or concept endorsement."
+    },
+    {
+      "id": "income-mbie",
+      "title": "MBIE · research and innovation routes",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Umbrella lead: identify individual programmes whose research remit fits. No assumption that every branch meets scientific or economic criteria.",
+      "citation": "Official programme / institutional information",
+      "url": "https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [],
+      "status": "Established route",
+      "sourceType": "National",
+      "addedIn": "0.16",
+      "income": {
+        "country": "New Zealand",
+        "level": "National",
+        "stage": "Established route",
+        "benefit": "Cash grant",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-catalyst",
+      "title": "MBIE Catalyst · international collaboration",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "International collaboration funding route; individual instruments and country priorities must be identified.",
+      "citation": "Official programme / institutional information",
+      "url": "https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/catalyst-fund",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [],
+      "status": "Established route",
+      "sourceType": "Bilateral / international",
+      "addedIn": "0.16",
+      "income": {
+        "country": "New Zealand",
+        "level": "Bilateral / international",
+        "stage": "Established route",
+        "benefit": "Cash grant",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-horizon",
+      "title": "Horizon Europe · collaborative research",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "NZ association is to Pillar II. Explore relevant collaborative calls with European partners; other Horizon instruments have different participation rules.",
+      "citation": "Official programme / institutional information",
+      "url": "https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/europe-world/international-cooperation/association-horizon-europe/new-zealand_en",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-mata-haggis-burridge",
+        "person-joey-relouw",
+        "person-ian-biscoe",
+        "person-juho-rissanen",
+        "person-tanja-bastamow",
+        "person-tommi-knuttila"
+      ],
+      "status": "Established route",
+      "sourceType": "Bilateral / international",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Europe / New Zealand",
+        "level": "Bilateral / international",
+        "stage": "Established route",
+        "benefit": "Cash grant",
+        "institutions": [
+          "Aalto University",
+          "Tampere University",
+          "University of Lapland",
+          "Breda University of Applied Sciences",
+          "Design Academy Eindhoven"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-erasmus",
+      "title": "Erasmus+ · education and exchange",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Explore education, mobility and partnership actions with European institutions. NZ participation depends on the specific action.",
+      "citation": "Official programme / institutional information",
+      "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/eligible-countries",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-mata-haggis-burridge",
+        "person-joey-relouw",
+        "person-ian-biscoe",
+        "person-juho-rissanen",
+        "person-tanja-bastamow",
+        "person-tommi-knuttila"
+      ],
+      "status": "Established route",
+      "sourceType": "Bilateral / international",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Europe / international",
+        "level": "Bilateral / international",
+        "stage": "Established route",
+        "benefit": "Cash grant / mobility",
+        "institutions": [
+          "Aalto University",
+          "Tampere University",
+          "University of Lapland",
+          "Breda University of Applied Sciences",
+          "Design Academy Eindhoven"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-aut-ventures",
+      "title": "AUT Ventures / AUT Innovation Fund",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Possible route for commercially applicable tools or services. Investment and commercialisation support are different from unrestricted research grants.",
+      "citation": "Official programme / institutional information",
+      "url": "https://ventures.aut.ac.nz/our-services/aut-innovation-fund",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [],
+      "status": "Established route",
+      "sourceType": "University / commercialisation",
+      "addedIn": "0.16",
+      "income": {
+        "country": "New Zealand",
+        "level": "University / commercialisation",
+        "stage": "Established route",
+        "benefit": "Investment / commercialisation support",
+        "institutions": [
+          "AUT"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-china-tripartite",
+      "title": "NZ–China Tripartite Partnership Fund",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Education New Zealand partnership scheme. A published 2026 round establishes the route, not an open application window.",
+      "citation": "Official programme / institutional information",
+      "url": "https://www.enz.govt.nz/news-and-research/ed-news/enz-calls-for-funding-proposals-for-new-zealand-china-research-partnerships-5",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-levi-dean",
+        "person-roy-hanney",
+        "person-li-shuai"
+      ],
+      "status": "Established route",
+      "sourceType": "Bilateral / international",
+      "addedIn": "0.16",
+      "income": {
+        "country": "New Zealand / China",
+        "level": "Bilateral / international",
+        "stage": "Established route",
+        "benefit": "Cash grant / partnership development",
+        "institutions": [
+          "University of Nottingham Ningbo China",
+          "Zhejiang Wanli University, Ningbo"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-dalio",
+      "title": "Dalio Philanthropies · ocean lead",
+      "layer": "Income Sources",
+      "branches": [
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Ocean exploration, education and storytelling suggest a thematic lead for Ocean X. No application route or relationship is established. Dalio’s OceanX is a separate organisation from our branch.",
+      "citation": "Official programme / institutional information",
+      "url": "https://www.daliophilanthropies.org/ocean/",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "ecology",
+        "c-literacy"
+      ],
+      "status": "Possible fit",
+      "sourceType": "Philanthropy",
+      "addedIn": "0.16",
+      "income": {
+        "country": "International",
+        "level": "Philanthropy",
+        "stage": "Possible fit",
+        "benefit": "Philanthropic support",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-creative-nz",
+      "title": "Creative New Zealand · arts and engagement",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Explore artistic practice and international engagement opportunities. Research and arts funding have different purposes.",
+      "citation": "Official programme / institutional information",
+      "url": "https://creativenz.govt.nz/funding-and-support/all-opportunities",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [],
+      "status": "Established route",
+      "sourceType": "National",
+      "addedIn": "0.16",
+      "income": {
+        "country": "New Zealand",
+        "level": "National",
+        "stage": "Established route",
+        "benefit": "Cash grant",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-ahrc",
+      "title": "UKRI / AHRC · partner-led research",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Explore relevant UK-led arts and humanities research and collaboration schemes with UK partners. Overseas participation and costs depend on the call.",
+      "citation": "Official programme / institutional information",
+      "url": "https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/ahrc-international-research/",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-richard-ramchurn",
+        "person-paul-tennent",
+        "person-sara-pepper",
+        "person-helen-w-kennedy",
+        "person-sarah-martindale",
+        "person-roger-owen"
+      ],
+      "status": "Established route",
+      "sourceType": "National",
+      "addedIn": "0.16",
+      "income": {
+        "country": "United Kingdom",
+        "level": "National",
+        "stage": "Established route",
+        "benefit": "Cash grant",
+        "institutions": [
+          "University of Nottingham",
+          "Cardiff University",
+          "Aberystwyth University"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-natgeo",
+      "title": "National Geographic Society · storytelling and ocean",
+      "layer": "Income Sources",
+      "branches": [
+        3,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Science, storytelling and education provide possible alignment with Ocean X and documentary work. A specific suitable call is not yet selected.",
+      "citation": "Official programme / institutional information",
+      "url": "https://www.nationalgeographic.org/explore/grants-investments",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "c-literacy",
+        "ecology"
+      ],
+      "status": "Possible fit",
+      "sourceType": "Philanthropy",
+      "addedIn": "0.16",
+      "income": {
+        "country": "International",
+        "level": "Philanthropy",
+        "stage": "Possible fit",
+        "benefit": "Cash grant",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-schmidt",
+      "title": "Schmidt Ocean Institute · expedition access",
+      "layer": "Income Sources",
+      "branches": [
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Research ship-time mechanism to investigate with an ocean-science collaborator. This is infrastructure access rather than general cash income.",
+      "citation": "Official programme / institutional information",
+      "url": "https://schmidtocean.org/expression-of-interest/",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "ecology"
+      ],
+      "status": "Established route",
+      "sourceType": "Infrastructure / access",
+      "addedIn": "0.16",
+      "income": {
+        "country": "International",
+        "level": "Infrastructure / access",
+        "stage": "Established route",
+        "benefit": "In-kind / cost reduction",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-magics",
+      "title": "MAGICS · Finnish infrastructure access",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Research infrastructure, facilities and services connecting artistic and scientific practice. Access terms and charges require enquiry; do not treat infrastructure investment as a project-grant offer.",
+      "citation": "Official programme / institutional information",
+      "url": "https://magics.fi/services/",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-juho-rissanen",
+        "person-tanja-bastamow",
+        "person-tommi-knuttila",
+        "c-infrastructuring"
+      ],
+      "status": "Established route",
+      "sourceType": "Infrastructure / access",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Finland",
+        "level": "Infrastructure / access",
+        "stage": "Established route",
+        "benefit": "In-kind / cost reduction",
+        "institutions": [
+          "Aalto University",
+          "Tampere University",
+          "University of Lapland"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-aalto-seed",
+      "title": "Aalto Global Engagement · seed funding",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Published 2026 institutional seed call for international partnerships. Spring deadline was 1 June 2026 and has passed; monitor future rounds.",
+      "citation": "Official programme / institutional information",
+      "url": "https://www.aalto.fi/en/services/global-engagement-seed-funding-call-2026",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-tanja-bastamow"
+      ],
+      "status": "Established route",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Finland",
+        "level": "University internal",
+        "stage": "Established route",
+        "benefit": "Cash grant / mobility",
+        "institutions": [
+          "Aalto University"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-singapore-acrf",
+      "title": "Singapore MOE · Academic Research Fund",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "National research funding through Singapore universities. Explore NTU-led research relevance and permitted collaboration costs; no eligibility assumed.",
+      "citation": "Official programme / institutional information",
+      "url": "https://www.ntu.edu.sg/about-us/facts-figures/research-grants-revenue",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-benjamin-seide",
+        "person-ina-conradi"
+      ],
+      "status": "Established route",
+      "sourceType": "National",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Singapore",
+        "level": "National",
+        "stage": "Established route",
+        "benefit": "Cash grant",
+        "institutions": [
+          "Nanyang Technological University (NTU)"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-sparc",
+      "title": "India SPARC · academic research collaboration",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Indian-led international academic collaboration route. AUT appears in a published eligible foreign-institution list; current round and institutional requirements still need checking.",
+      "citation": "Official programme / institutional information",
+      "url": "https://sparc.iitkgp.ac.in/about/program-details-sparc.html",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-deepak-john-mathew",
+        "person-delwyn-jude-remedios"
+      ],
+      "status": "Established route",
+      "sourceType": "National / international",
+      "addedIn": "0.16",
+      "income": {
+        "country": "India",
+        "level": "National / international",
+        "stage": "Established route",
+        "benefit": "Cash grant / mobility",
+        "institutions": [
+          "Indian Institute of Technology Hyderabad"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24",
+        "additionalEvidence": "https://sparc.iitkgp.ac.in/assets/pdf/foreign_institutes.pdf"
+      }
+    },
+    {
+      "id": "income-nsfc",
+      "title": "China NSFC · international cooperation",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Potential route for scientific or technical collaboration through Chinese partners. Arts-led suitability and institution-specific eligibility are unresolved.",
+      "citation": "Official programme / institutional information",
+      "url": "https://www.nsfc.gov.cn/p1/2791/2809/120841.html",
+      "access": "Official public information checked 24 October 2026; no open-call or applicant eligibility confirmation.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-levi-dean",
+        "person-roy-hanney",
+        "person-li-shuai"
+      ],
+      "status": "Established route",
+      "sourceType": "National",
+      "addedIn": "0.16",
+      "income": {
+        "country": "China",
+        "level": "National",
+        "stage": "Established route",
+        "benefit": "Cash grant",
+        "institutions": [
+          "University of Nottingham Ningbo China",
+          "Zhejiang Wanli University, Ningbo"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": "2026-10-24"
+      }
+    },
+    {
+      "id": "income-internal-1",
+      "title": "Aalto University · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-tanja-bastamow"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Finland",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "Aalto University"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-2",
+      "title": "Aberystwyth University · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-roger-owen"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "United Kingdom",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "Aberystwyth University"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-3",
+      "title": "Breda University of Applied Sciences · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-mata-haggis-burridge",
+        "person-joey-relouw"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Netherlands",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "Breda University of Applied Sciences"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-4",
+      "title": "Cardiff University · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-sara-pepper"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "United Kingdom",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "Cardiff University"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-5",
+      "title": "Design Academy Eindhoven · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-ian-biscoe"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Netherlands",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "Design Academy Eindhoven"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-6",
+      "title": "Indian Institute of Technology Hyderabad · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-deepak-john-mathew",
+        "person-delwyn-jude-remedios"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "India",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "Indian Institute of Technology Hyderabad"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-7",
+      "title": "Nanyang Technological University (NTU) · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-benjamin-seide",
+        "person-ina-conradi"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Singapore",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "Nanyang Technological University (NTU)"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-8",
+      "title": "Swinburne University of Technology · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-john-mccormick",
+        "person-max-schleser"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Australia",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "Swinburne University of Technology"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-9",
+      "title": "Tampere University · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-juho-rissanen"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Finland",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "Tampere University"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-10",
+      "title": "The Hong Kong Polytechnic University · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-hossein-najafi"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Hong Kong",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "The Hong Kong Polytechnic University"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-11",
+      "title": "University of Lapland · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-tommi-knuttila"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Finland",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "University of Lapland"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-12",
+      "title": "University of Nottingham · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-richard-ramchurn",
+        "person-paul-tennent",
+        "person-helen-w-kennedy",
+        "person-sarah-martindale"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "United Kingdom",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "University of Nottingham"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-13",
+      "title": "University of Nottingham Ningbo China · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-levi-dean",
+        "person-roy-hanney"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "China",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "University of Nottingham Ningbo China"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-14",
+      "title": "University of Saskatchewan · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-andrew-denton"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Canada",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "University of Saskatchewan"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-internal-15",
+      "title": "Zhejiang Wanli University, Ningbo · internal funding enquiry",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Institutional enquiry lead, not a named award. Investigate seed funds, visiting fellowships, doctoral support, teaching innovation and partnership-development budgets. Listed contacts are possible conversation routes, not confirmed applicants.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [
+        "person-li-shuai"
+      ],
+      "status": "Possible fit",
+      "sourceType": "University internal",
+      "addedIn": "0.16",
+      "income": {
+        "country": "China",
+        "level": "University internal",
+        "stage": "Possible fit",
+        "benefit": "Seed funding / mobility / studentships",
+        "institutions": [
+          "Zhejiang Wanli University, Ningbo"
+        ],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-regional",
+      "title": "Regional and municipal programmes",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Investigate local cultural, innovation and economic-development programmes in partner locations. No specific council or provincial scheme identified.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [],
+      "status": "Possible fit",
+      "sourceType": "Regional / local",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Partner locations / international",
+        "level": "Regional / local",
+        "stage": "Possible fit",
+        "benefit": "Cash grant / commission",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-commission",
+      "title": "Commissioned research and creative production",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Explore paid research, documentary, installation or evaluation commissions with defined deliverables. No client or contract is established.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [],
+      "status": "Possible fit",
+      "sourceType": "Commission / contract",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Partner locations / international",
+        "level": "Commission / contract",
+        "stage": "Possible fit",
+        "benefit": "Earned income",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-industry",
+      "title": "Industry collaboration and sponsorship",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Explore industry research partnerships, sponsorship and equipment or service contributions. Research independence, publication and IP terms need deliberate agreement.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [],
+      "status": "Possible fit",
+      "sourceType": "Industry / sponsorship",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Partner locations / international",
+        "level": "Industry / sponsorship",
+        "stage": "Possible fit",
+        "benefit": "Cash / in-kind",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-workshops",
+      "title": "Paid workshops, training and consultancy",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Possible income from expertise in remote collaboration, documentary, XR or creative AI. A paying audience, delivery capacity and institutional costing need testing.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [],
+      "status": "Possible fit",
+      "sourceType": "Services / training",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Partner locations / international",
+        "level": "Services / training",
+        "stage": "Possible fit",
+        "benefit": "Earned income",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
+    },
+    {
+      "id": "income-licensing",
+      "title": "Licensing and reusable tools",
+      "layer": "Income Sources",
+      "branches": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "disciplines": [
+        "Research infrastructure and policy"
+      ],
+      "note": "Potential income from research-derived software, methods or content where ownership, rights and demand allow. No market or revenue forecast is assumed.",
+      "citation": "",
+      "url": "",
+      "access": "Exploratory route proposed in discussion; no named scheme, buyer or award confirmed.",
+      "question": "What research or service would this support, who could lead it, and what must we establish next?",
+      "links": [],
+      "status": "Possible fit",
+      "sourceType": "Licensing / commercialisation",
+      "addedIn": "0.16",
+      "income": {
+        "country": "Partner locations / international",
+        "level": "Licensing / commercialisation",
+        "stage": "Possible fit",
+        "benefit": "Earned income / royalties",
+        "institutions": [],
+        "connectionBasis": "Proposed thematic or institutional route; not an award, commitment, eligibility finding or researcher endorsement.",
+        "nextStep": "Identify a suitable round or mechanism and discuss the research fit with the relevant partner.",
+        "lastChecked": null
+      }
     }
   ],
   "uploadFiles": 32,
@@ -34070,5 +35434,17 @@
       "up-rq-ai",
       "om-carbon"
     ]
+  },
+  "incomeModel": {
+    "purpose": "Exploratory landscape of possible income and support, not an awarded-funding ledger.",
+    "stages": [
+      "Possible fit",
+      "Established route",
+      "Specific opportunity"
+    ],
+    "benefitDistinction": "Cash income, investment and in-kind cost reduction remain distinct.",
+    "connectionMeaning": "Proposed relevance or institutional route, not eligibility or commitment.",
+    "records": 36,
+    "date": "2026-10-24"
   }
 }
